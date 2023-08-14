@@ -28,8 +28,8 @@ KEY = 'You Key'
 #import telebot
 #import openai
 
-#telegram_key = '6182285985:AAHweBtUWAW4_koW1ooblB7SVga3REzGcGM'
-#openai.api_key = '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'
+#telegram_key = ''
+#openai.api_key = ''
 
 #bot = telebot.TeleBot(telegram_key)
 
